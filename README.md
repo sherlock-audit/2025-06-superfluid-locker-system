@@ -59,7 +59,7 @@ No.
 ___
 
 ### Q: Is the codebase expected to comply with any specific EIPs?
-No.
+N/A
 ___
 
 ### Q: Are there any off-chain mechanisms involved in the protocol (e.g., keeper bots, arbitrage bots, etc.)? We assume these mechanisms will not misbehave, delay, or go offline unless otherwise specified.
@@ -119,7 +119,8 @@ ___
 ___
 
 ### Q: Please provide links to previous audits (if any).
-https://audits.sherlock.xyz/dashboard/e3aea60219344c9f4fea430add61728c
+Previous Audit link can be found here : 
+"https://audits.sherlock.xyz/dashboard/e3aea60219344c9f4fea430add61728c"
 
 ___
 
