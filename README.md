@@ -120,7 +120,7 @@ ___
 
 ### Q: Please provide links to previous audits (if any).
 Previous Audit link can be found here : 
-"https://audits.sherlock.xyz/dashboard/e3aea60219344c9f4fea430add61728c"
+https://audits.sherlock.xyz/contests/648
 
 ___
 
