@@ -25,3 +25,6 @@
 [submodule "fluid/packages/contracts/lib/swap-router-contracts"]
 	path = fluid/packages/contracts/lib/swap-router-contracts
 	url = https://github.com/Uniswap/swap-router-contracts
+[submodule "protocol-monorepo/lib/forge-std"]
+	path = protocol-monorepo/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
