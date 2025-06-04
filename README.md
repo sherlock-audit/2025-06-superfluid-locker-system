@@ -167,7 +167,7 @@ Live contracts can be found at below addresses on BASE Mainnet :
 
 # Audit scope
 
-[fluid @ 8d5cde1b0ea5a54310ee96a00b60cab516017d0a](https://github.com/superfluid-finance/fluid/tree/8d5cde1b0ea5a54310ee96a00b60cab516017d0a)
+[fluid @ fb078d92b2bc7fa3860e93d0a3ef2bc28fd5b647](https://github.com/superfluid-finance/fluid/tree/fb078d92b2bc7fa3860e93d0a3ef2bc28fd5b647)
 - [fluid/packages/contracts/src/EPProgramManager.sol](fluid/packages/contracts/src/EPProgramManager.sol)
 - [fluid/packages/contracts/src/FluidEPProgramManager.sol](fluid/packages/contracts/src/FluidEPProgramManager.sol)
 - [fluid/packages/contracts/src/FluidLocker.sol](fluid/packages/contracts/src/FluidLocker.sol)
